@@ -275,3 +275,14 @@ body {
     right: 20px;
     top: 20px;
 }
+
+.transition__secret {
+    width: 70px;
+    height: auto;
+    border: 2px solid red;
+    border-radius: 20%;
+}
+.transition__secret2 {
+    width: 70px;
+    height: auto;
+}
